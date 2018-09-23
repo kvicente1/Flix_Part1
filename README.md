@@ -42,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had so much trouble uploading the project through terminal. I kept getting fatal errors such as:'origin' does not appear to be a git repository and could not read from remote repository. I had to rename the remote which took me a while to figure out. 
 
 ## License
 
